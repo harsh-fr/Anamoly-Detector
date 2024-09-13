@@ -1,0 +1,5 @@
+z-function based
+https://medium.com/@akpradhn/statistical-methods-for-anomaly-detection-using-python-a-comprehensive-guide-96d7b95bec35
+
+ewma based
+https://stackoverflow.com/questions/24680509/anomaly-detection-using-exponential-weighted-moving-average
