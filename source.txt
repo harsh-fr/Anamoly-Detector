@@ -1,4 +1,7 @@
-z-function based
+sd based
+https://pandascouple.medium.com/anomaly-detection-a-simple-and-useful-way-4a58be7da348
+
+z-score based
 https://medium.com/@akpradhn/statistical-methods-for-anomaly-detection-using-python-a-comprehensive-guide-96d7b95bec35
 
 ewma based
